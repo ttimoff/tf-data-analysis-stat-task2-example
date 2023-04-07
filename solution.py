@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 from scipy.stats import norm
-
+from scipy.stats import gamma
 
 chat_id = 223196602 # Ваш chat ID, не меняйте название переменной
 
